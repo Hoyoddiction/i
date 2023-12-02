@@ -1,11 +1,5 @@
 *
-.body{
-background:linear-gradient(90deg,darkolivegreen,rgb(214, 240, 171));
-width: 100%;
-min-height: 100vh;
-align-items: center;
-justify-content: center;
-}
+
 .container2{
     width: 80%;
     background-color: white;
