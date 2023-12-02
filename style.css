@@ -39,21 +39,21 @@ transform: translateY(-50%);
 background: darkslategray;
 }
 
-.contactus .contactinfo .info{
+.contactus .contactinfo .details{
     margin: 14px;
     text-align: center;
 }
-.contactus .contactinfo .info i{
+.contactus .contactinfo .details i{
     font-size: 30px;
     color: darkolivegreen;
     margin-bottom: 10px;
 }
-.contactus .contactinfo .info .beg{
+.contactus .contactinfo .details .beg{
     font-size: 18px;
     font-weight: 500;
 }
-.contactus .contactinfo .info .accumalaka,
-.contactus .contactinfo .info .alamak{
+.contactus .contactinfo .details.accumalaka, 
+.contactus .contactinfo .details .alamak{
     font-size: 14px;
     color: darkgray;
 }
@@ -133,5 +133,4 @@ background: darkslategray;
         width: 100%;
         margin-left: 0;
     }
-}
 }
